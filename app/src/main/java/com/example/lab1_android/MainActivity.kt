@@ -100,10 +100,4 @@ fun MainScreen(viewModel: CounterViewModel = viewModel()) {
     }
 }
 
-@Preview(showBackground = true)
-@Composable
-fun DefaultPreview() {
-    Lab1androidTheme {
-        MainScreen()
-    }
-}
+
